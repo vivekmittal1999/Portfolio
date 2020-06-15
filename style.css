@@ -61,6 +61,7 @@ body::-webkit-scrollbar {
 
 .no-list-style{
     list-style: none;
+    margin-left: auto;
 }
 
 .no-list-style li {
